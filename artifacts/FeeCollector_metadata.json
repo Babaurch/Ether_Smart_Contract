@@ -74,7 +74,7 @@
 		"compilationTarget": {
 			"MadukwesContract.sol": "FeeCollector"
 		},
-		"evmVersion": "homestead",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

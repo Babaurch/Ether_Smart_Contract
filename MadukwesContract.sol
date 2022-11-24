@@ -1,7 +1,7 @@
 pragma solidity ^0.8.7;
 // SPDX-License-Identifier: MIT
 
-contract FeeCollector { // 
+contract Madukwes { // 
     address public owner;
     uint256 public balance;
     
